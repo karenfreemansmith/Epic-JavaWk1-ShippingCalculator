@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ParcelTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2016-09-06T23:05:16" hostname="epicodus-3.local" time="0.002">
-  <properties/>
-  <testcase name="cost_calculatesCost_int" classname="ParcelTest" time="0.001"/>
-  <testcase name="volume_calculatesVolume_int" classname="ParcelTest" time="0.0"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
