@@ -1,10 +1,20 @@
-# Java Parcel TRacker
-Version 0.0.0: September 6, 2016
-
-by [Karen Freeman-Smith](https://github.com/karenfreemansmith) and [Georgina Van Dort](https://github.com/GeorginaVanDort)
+# Java Parcel Tracker
+Version 0.0.1: September 6, 2016 by [Karen Freeman-Smith](https://github.com/karenfreemansmith) and [Georgina Van Dort](https://github.com/GeorginaVanDort)
 
 ## Description
+Java program to calculate shipping costs
 
+## Technologies Used
+Java, Gradle, JUnit
+
+## Setup/Installation
+* Clone directory
+* Run gradle build
+* navigate to src/build/classes/main
+* run program by typing "java App"
+
+## Support & Contact
+For questions, concerns, or suggestions please email karenfreemansmith@gmail.com
 
 ## Specifications:
 |          Behavior          |                Input               | Output |
@@ -13,17 +23,8 @@ by [Karen Freeman-Smith](https://github.com/karenfreemansmith) and [Georgina Van
 | Calculate Cost to Ship     | weight = 10 distance = 100         | 3.250  |
 |                            |                                    |        |
 
-## Setup/Installation
-Who knows? Download stuff...
-
-## Support & Contact
-N/A
-
 ## Known Issues
-We don't really know what we are doing yet.
-
-## Technologies Used
-Java, Gradle, junit
+* This program runs only from the command line
 
 ## Legal
 *Licensed under the GNU General Public License v3.0*
